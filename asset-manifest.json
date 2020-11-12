@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tilankamihingu/Watch-Shopping-Cart/static/css/main.81ad93a5.chunk.css",
+    "main.js": "/tilankamihingu/Watch-Shopping-Cart/static/js/main.9b64ebda.chunk.js",
+    "main.js.map": "/tilankamihingu/Watch-Shopping-Cart/static/js/main.9b64ebda.chunk.js.map",
+    "runtime-main.js": "/tilankamihingu/Watch-Shopping-Cart/static/js/runtime-main.0ada3cdc.js",
+    "runtime-main.js.map": "/tilankamihingu/Watch-Shopping-Cart/static/js/runtime-main.0ada3cdc.js.map",
+    "static/js/2.9c225e62.chunk.js": "/tilankamihingu/Watch-Shopping-Cart/static/js/2.9c225e62.chunk.js",
+    "static/js/2.9c225e62.chunk.js.map": "/tilankamihingu/Watch-Shopping-Cart/static/js/2.9c225e62.chunk.js.map",
+    "static/js/3.879c6e9b.chunk.js": "/tilankamihingu/Watch-Shopping-Cart/static/js/3.879c6e9b.chunk.js",
+    "static/js/3.879c6e9b.chunk.js.map": "/tilankamihingu/Watch-Shopping-Cart/static/js/3.879c6e9b.chunk.js.map",
+    "index.html": "/tilankamihingu/Watch-Shopping-Cart/index.html",
+    "static/css/main.81ad93a5.chunk.css.map": "/tilankamihingu/Watch-Shopping-Cart/static/css/main.81ad93a5.chunk.css.map",
+    "static/js/2.9c225e62.chunk.js.LICENSE.txt": "/tilankamihingu/Watch-Shopping-Cart/static/js/2.9c225e62.chunk.js.LICENSE.txt",
+    "static/media/bars-solid.e8db7520.svg": "/tilankamihingu/Watch-Shopping-Cart/static/media/bars-solid.e8db7520.svg",
+    "static/media/shopping-cart-solid.d146d6c3.svg": "/tilankamihingu/Watch-Shopping-Cart/static/media/shopping-cart-solid.d146d6c3.svg",
+    "static/media/times-solid.ea7c95d7.svg": "/tilankamihingu/Watch-Shopping-Cart/static/media/times-solid.ea7c95d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ada3cdc.js",
+    "static/js/2.9c225e62.chunk.js",
+    "static/css/main.81ad93a5.chunk.css",
+    "static/js/main.9b64ebda.chunk.js"
+  ]
+}
